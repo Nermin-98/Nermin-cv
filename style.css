@@ -1,0 +1,59 @@
+
+
+body{
+  background-image:url("k4-scaled.jpg"); 
+
+ 
+}
+
+h1{color:#c77077;
+background-color:#e2e6ec;
+ border:#992e49 outset 30px;
+ border-style:groove;
+
+  padding:10px;
+  font-family: "Eagle Lake", serif;
+
+}
+img{
+  clip-path:circle(50% at 50%50%);
+  
+
+}
+
+.my-date{
+    background-color:#e2e6ec;
+  border:#8f3636 outset 30px;
+  color:#c77077;
+  border-bottom-style:hidden;
+  margin:-10px;
+  padding:10px;
+  font-family: "Rubik Dirt", system-ui;
+  
+}
+.mydate-two{background-color:#e2e6ec;
+  border:#8f3636 outset 30px;
+  color:#c77077;
+  border-bottom-style:hidden;
+  border-top-style:hidden;
+  margin:-10px;
+  padding:10px;
+  font-family: "Rubik Moonrocks", sans-serif;
+}
+.mydate-three{background-color:#e2e6ec;
+  border:#8f3636 outset 30px;
+  color:#c77077;
+ 
+  border-top-style:hidden;
+  margin:-10px;
+  padding:10px;
+  font-family: "Rubik Moonrocks", sans-serif;
+}
+
+  
+
+span{color:#c77077;
+  font-family: "Rubik Moonrocks", sans-serif;}
+  /* .one{border-style:double; 
+
+  } */
